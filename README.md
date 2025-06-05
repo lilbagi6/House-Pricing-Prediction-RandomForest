@@ -12,7 +12,7 @@ This project is a part of my Kaggle learning journey and demonstrates a basic re
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 
 - `Python`
 - `pandas`, `numpy`
@@ -22,15 +22,15 @@ This project is a part of my Kaggle learning journey and demonstrates a basic re
 
 ---
 
-## 📈 Model Summary
+##  Model Summary
 
-- ✅ Model: RandomForestRegressor (basic version, no hyperparameter tuning)
-- 🎯 Public Score on Kaggle: **0.15069**
-- 🧪 Validation: Split training dataset for local testing and feature impact analysis
+-  Model: RandomForestRegressor (basic version, no hyperparameter tuning)
+-  Public Score on Kaggle: **0.15069**
+-  Validation: Split training dataset for local testing and feature impact analysis
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone this repo:
    ```bash
