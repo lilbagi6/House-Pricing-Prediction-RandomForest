@@ -29,9 +29,3 @@ This project is a part of my Kaggle learning journey and demonstrates a basic re
 -  Validation: Split training dataset for local testing and feature impact analysis
 
 ---
-
-##  How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/libagi6/House-Pricing-Prediction-RandomForest.git
